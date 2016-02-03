@@ -174,6 +174,7 @@
 .com.mm|whois.nic.mm|No domains matched
 .com.mx|whois.nic.mx|Object_Not_Found
 .com.my|whois.mynic.net.my|does not exist
+.com.pe|kero.yachay.pe|Not Registered
 .com.ph|http:\/\/www2.dot.ph\/WhoIs.asp?Domain=|is still available
 .com.pl|whois.dns.pl|No information available
 .com.pt|whois.dns.pt|no match
@@ -443,6 +444,7 @@
 .io|whois.nic.io|is available
 .iq|whois.cmc.iq|Domain Status: No Object Found
 .ir|whois.nic.ir|no entries found
+.irish|whois.nic.irish|NOT FOUND
 .is|whois.isnic.is|No entries found
 .it|whois.nic.it|AVAILABLE
 .iwi.nz|whois.srs.net.nz|220 Available
@@ -480,7 +482,7 @@
 .land|whois.donuts.co|Domain not found
 .lat|whois.nic.lat|Object_Not_Found
 .latrobe|whois.nic.latrobe|No Data Found
-.lawyer|whois.rightside.co|Domain not found.
+.lawyer|whois.nic.lawyer|Domain not found
 .lc|whois2.afilias-grs.net|NOT FOUND
 .lease|whois.donuts.co|Domain not found.
 .leclerc|whois-leclerc.nic.fr|Requested Domain cannot be found
@@ -664,7 +666,7 @@
 .partners|whois.donuts.co|Domain not found.
 .parts|whois.donuts.co|Domain not found.
 .pc.pl|whois.dns.pl|No information available
-.pe|kero.yachay.pe|Status: Not Registered
+.pe|kero.yachay.pe|Not Registered
 .pf|whois.registry.pf|Domain unknown
 .ph|http:\/\/www2.dot.ph\/WhoIs.asp?Domain=|is still available
 .photo|whois.uniregistry.net|is available for
@@ -700,7 +702,7 @@
 .psc.br|whois.nic.br|No match for
 .psi.br|whois.nic.br|No match for
 .pt|whois.dns.pt|no match
-.pub|whois.unitedtld.com|Domain not found.
+.pub|whois.unitedtld.com|Domain not found
 .pw|whois.nic.pw|DOMAIN NOT FOUND
 .qa|whois.registry.qa|No Data Found
 .qc.com|whois.centralnic.com|DOMAIN NOT FOUND
