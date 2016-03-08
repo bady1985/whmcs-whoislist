@@ -136,7 +136,7 @@
 .click|whois.uniregistry.net|is available for
 .clinic|whois.donuts.co|Domain not found.
 .clothing|whois.donuts.co|Domain not found
-.club|whois.nic.club|Not found:
+.club|whois.nic.club|No Domain exists for the search string
 .cn|whois.cnnic.net.cn|No matching record.
 .cn.com|whois.centralnic.com|DOMAIN NOT FOUND
 .cng.br|whois.nic.br|No match for
@@ -490,7 +490,7 @@
 .lel.br|whois.nic.br|No match for
 .lg.ua|whois.net.ua|No entries found
 .lgbt|whois.afilias.net|NOT FOUND
-.li|whois.nic.li|do not have an entry in our database matching your query
+.li|whois.nic.li|We do not have an entry in our database matching your query
 .life|whois.donuts.co|Domain not found.
 .lighting|whois.donuts.co|Domain not found
 .limited|whois.donuts.co|Domain not found.
@@ -542,7 +542,7 @@
 .mil.tr|whois.metu.edu.tr|No match found
 .mil.za|whois.co.za|No information available
 .mini|whois.ksregistry.net|not found...
-.mk|whois.marnet.mk|% No entries found.
+.mk|whois.marnet.mk|No entries found
 .ml|whois.dot.ml|Invalid query or domain name not known
 .mn|whois.afilias-grs.info|NOT FOUND
 .mo|whois.monic.mo|No match for
@@ -832,7 +832,7 @@
 .to|monarch.tonic.to|No match for
 .today|whois.donuts.co|Domain not found
 .tools|whois.donuts.co|Domain not found.
-.top|whois.nic.top|No match
+.top|whois.nic.top|The queried object does not exist
 .toshiba|whois.nic.toshiba|DOMAIN NOT FOUND
 .tourism.pl|whois.dns.pl|No information available
 .town|whois.donuts.co|Domain not found.
