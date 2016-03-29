@@ -135,6 +135,7 @@
 .cleaning|whois.donuts.co|Domain not found.
 .click|whois.uniregistry.net|is available for
 .clinic|whois.donuts.co|Domain not found.
+.cloud|whois.nic.cloud|No Data Found
 .clothing|whois.donuts.co|Domain not found
 .club|whois.nic.club|No Domain exists for the search string
 .cn|whois.cnnic.net.cn|No matching record.
@@ -155,6 +156,7 @@
 .co.uk|whois.nic.uk|No match
 .co.ve|whois.nic.ve|No match for
 .co.za|http:\/\/whois.registry.net.za\/whois\/whois.sh?Domain=|No Matches
+.co.zw|http://zispa.co.zw/cgi-bin/domain_lookup.pl?s=|HTTPREQUEST-is available for registration
 .coach|whois.donuts.co|Domain not found.
 .codes|whois.donuts.co|Domain not found.
 .coffee|whois.donuts.co|Domain not found
